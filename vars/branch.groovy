@@ -2,6 +2,6 @@
 
 def call(context)
 {
-	println "This is /master branch"
+	println "This is /master/dev branch"
 }																	
 
